@@ -1,1 +1,0 @@
-# SWE-Aufgabe2
